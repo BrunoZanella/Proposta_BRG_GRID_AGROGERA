@@ -1,0 +1,12 @@
+Django==3.0.6
+#Django==3.1
+django-assets==0.12
+localflavor
+
+mysqlclient
+mysql-connector-python
+
+django-admin-interface
+gunicorn
+reportlab
+django-easy-pdf
